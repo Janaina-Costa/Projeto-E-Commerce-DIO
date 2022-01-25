@@ -1,3 +1,51 @@
+
+
+
+
+Projeto final do Bootcamp Inter Front End da Digital Innovation .<br>
+O mesmo consiste da fase de integração do back com o front de um E-commerce, o qual renomeei para Shopping Dreams que comercializa vestidos de noiva.<br><br>
+
+Orientadora: Nathally Souza
+
+Ferramentas utilizadas:<br>
+
+<span>
+<img src='https://icongr.am/devicon/react-original.svg?size=93&color=currentColor'/>
+<img src='https://icongr.am/devicon/bootstrap-plain.svg?size=93&color=f1eaea'/>
+<img src="https://icongr.am/devicon/css3-original.svg?size=93&color=currentColor"/>
+
+</span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
