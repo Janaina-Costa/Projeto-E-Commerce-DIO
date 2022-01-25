@@ -13,6 +13,10 @@ Ferramentas utilizadas:<br>
 <img src='https://icongr.am/devicon/react-original.svg?size=93&color=currentColor'/>
 <img src='https://icongr.am/devicon/bootstrap-plain.svg?size=93&color=f1eaea'/>
 <img src="https://icongr.am/devicon/css3-original.svg?size=93&color=currentColor"/>
+  
+ <img src="./public/images/capa.png"/>
+  
+
 
 </span>
 
